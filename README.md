@@ -1,2 +1,6 @@
-# ROS2-Raspberry-PI-Intelligent-Vision-Robot
-This repository is based on Raspberry pi
+# Intelligent Vision Robot
+This repository is based on Raspberry pi and contain some good projects
+
+### Nodes
+- Publisher
+- Subscriber
